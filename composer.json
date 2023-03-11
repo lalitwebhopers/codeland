@@ -1,0 +1,15 @@
+{
+    "name": "lalit/codeland",
+    "autoload": {
+        "psr-4": {
+            "Lalit\\Codeland\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lalitwebhopers",
+            "email": "lalit.webhopers@gmail.com"
+        }
+    ],
+    "require": {}
+}
